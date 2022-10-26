@@ -1,2 +1,2 @@
 # DS_self_study
-upload my personal notes
+I will upload my personal notes here. Updates will not be scheduled.
